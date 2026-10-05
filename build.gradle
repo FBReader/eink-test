@@ -1,0 +1,4 @@
+// Copyright (c) 2026 Codex <codex@fbreader.org>. SPDX-License-Identifier: MIT
+plugins {
+    id 'com.android.application' version '8.10.1' apply false
+}

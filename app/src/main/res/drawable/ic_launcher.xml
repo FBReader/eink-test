@@ -1,0 +1,8 @@
+<!-- Copyright (c) 2026 Codex <codex@fbreader.org>. SPDX-License-Identifier: MIT -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="48dp" android:height="48dp" android:viewportWidth="48" android:viewportHeight="48">
+    <path android:fillColor="#FFFFFF" android:pathData="M0,0H48V48H0Z" />
+    <path android:fillColor="#000000" android:pathData="M4,4H44V44H4Z" />
+    <path android:fillColor="#FFFFFF" android:pathData="M7,7H41V41H7Z" />
+    <path android:fillColor="#000000" android:pathData="M10,11H22V15H14V22H21V26H14V33H22V37H10Z M27,11H31V15H27Z M33,17H37V21H33Z M27,23H31V27H27Z M33,29H37V33H33Z M27,35H31V39H27Z" />
+</vector>

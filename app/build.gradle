@@ -1,0 +1,18 @@
+// Copyright (c) 2026 Codex <codex@fbreader.org>. SPDX-License-Identifier: MIT
+plugins { id 'com.android.application' }
+android {
+    namespace 'org.fbreader.einktest'
+    compileSdk 35
+    defaultConfig {
+        applicationId 'org.fbreader.einktest'
+        minSdk 21
+        targetSdk 35
+        versionCode 1
+        versionName '1.0'
+        testInstrumentationRunner 'org.fbreader.einktest.RendererInstrumentation'
+    }
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+}
